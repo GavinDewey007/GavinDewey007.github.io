@@ -1,6 +1,6 @@
  TODO 1: Practice changing the case of strings
     - With the first letter of every word capitalized, it makes it too easy to play. When scrambled the word should either be all upper or lower case
-    - HINT: the variable that hold the word that will be scrambled is called "selectedWord"
+    - HINT: the variable that hold the word that will be scrambled is called "selectedWord"     .toUpperCase()/.toLowerCase
 
   TODO 2: JS is case sensitive. -- Remember how I showed  "ken" and "Ken" are not the same.
     - When checking your answer, the comparision is case sensitive. You should make sure that the cases are the same.
